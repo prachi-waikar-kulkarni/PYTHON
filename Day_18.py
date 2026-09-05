@@ -8,6 +8,8 @@ self (instance referrrence that gets passed when an object calls this method.)
 
 Jab mujhe aisa method chahiye which is not dependent on the object calling/using it, I will create a static method.
 - Agar static method use karni hai with the object, then we need the @staticmethod decorator.
+- When I intend to create a method which is not related to the class conceptulally but needed I will
+  add it to the @classmethod.
 '''
 
 
