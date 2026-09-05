@@ -1,0 +1,4 @@
+info@gmail.com is the emails of my customer.
+please search all the emails in this file.
+for example prachi@yahoo.com is another example.
+She wishes to send an email to her boss prateek@gmail.com and her collegue smita@ymail.com.
